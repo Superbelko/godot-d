@@ -1,3 +1,6 @@
+# CURRENT GODOT D BINDINGS ARE IN [godot-dlang](https://github.com/godot-dlang/godot-dlang)
+# THIS REPO IS HERE ONLY TO LINK AND POINT PEOPLE TO NEW ONE
+
 [![Godot-D logo](/logo.png)](https://code.dlang.org/packages/godot-d)
 
 Godot-D
